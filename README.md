@@ -4,5 +4,7 @@
  <br>
  To Use:<be>
  <br>
+ ```
   chmod +x PasswordGenerator.sh<br>
   ./PasswordGenerator.sh
+ ```
