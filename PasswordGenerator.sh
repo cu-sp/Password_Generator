@@ -1,7 +1,5 @@
 #!/bin/bash
-#
 #Password Generator
-#Using base64
 #
 #Dylan Dodds
 #Feb. 16 2024
